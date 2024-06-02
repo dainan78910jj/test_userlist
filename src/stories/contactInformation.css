@@ -1,0 +1,8 @@
+.storybook-link {
+  color: light-dark(black, white);
+}
+
+.storybook-link:hover {
+  color: light-dark(blue, orange);
+  cursor: pointer;
+}
